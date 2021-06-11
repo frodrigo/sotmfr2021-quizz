@@ -141,7 +141,7 @@ css: 'style.css'
 <!-- .slide: data-background="./images/saint-pierre-des-corps_osm.png" data-background-size="contain" -->
 
 ---
-### Quel tag pour marquer d'un arbre est un tilleul ?
+### Quel tag pour marquer qu'un arbre est un tilleul ?
 ----
 # genus=tilia
 
@@ -184,10 +184,10 @@ css: 'style.css'
 <!-- .slide: data-background="./images/deci.png" data-background-size="contain" -->
 ----
 <!-- .slide: data-background="./images/deci.png" data-background-size="contain" -->
-### Quelle tag de type et couleur pour la dernière ?
+### Quelle tag pour le type et la couleur pour l'avant dernière ?
 ----
 <!-- .slide: data-background="./images/deci.png" data-background-size="contain" -->
-### color=green
+### colour=yellow
 ### hydrant:type=pillar
 
 ---
